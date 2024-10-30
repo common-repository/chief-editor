@@ -1,0 +1,323 @@
+# Copyright (C) 2015 Chief Editor
+# This file is distributed under the same license as the Chief Editor package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Chief Editor 3.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/chief-editor\n"
+"POT-Creation-Date: 2015-04-29 14:24:37+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-07-23 15:00+0100\n"
+"Last-Translator: Borisa Djuraskovic <borisad@webhostinghub.com>\n"
+"X-Generator: Poedit 1.7.4\n"
+"Language-Team: \n"
+"Language: sr_RS\n"
+
+#: admin/chief-editor-admin.php:271
+msgid "Ready for printing"
+msgstr "Spremno za štampanje"
+
+#: admin/chief-editor-admin.php:290
+msgid "Email sent successfully"
+msgstr "Email uspešno poslat"
+
+#: admin/chief-editor-admin.php:290
+msgid " to "
+msgstr "na"
+
+#: admin/chief-editor-admin.php:290
+msgid "Problem sending email..."
+msgstr "Problem u slanju email-a..."
+
+#: admin/chief-editor-admin.php:321
+msgid "Are you sure you want to sent \"ready for printing\" email?"
+msgstr ""
+"Da li ste sigurni da želite da pošaljete email \"ready for printing"
+"\" (spreman za štampu)"
+
+#: admin/chief-editor-admin.php:327
+msgid "Send"
+msgstr "Poslati"
+
+#: admin/chief-editor-admin.php:361 admin/chief-editor-admin.php:1635
+msgid "Posts"
+msgstr "Postovi"
+
+#: admin/chief-editor-admin.php:401
+msgid "Calendar"
+msgstr "Kalendar"
+
+#: admin/chief-editor-admin.php:417 admin/chief-editor-admin.php:1636
+msgid "Comments"
+msgstr "Komentari"
+
+#: admin/chief-editor-admin.php:424
+msgid "Authors"
+msgstr "Autori"
+
+#: admin/chief-editor-admin.php:430
+msgid "Settings"
+msgstr "Podešavanja"
+
+#: admin/chief-editor-admin.php:473
+msgid "Visit Plugin Site"
+msgstr "Posetite plugin sajt"
+
+#: admin/chief-editor-admin.php:474
+msgid "Rate!"
+msgstr "Ocenite!"
+
+#: admin/chief-editor-admin.php:491 admin/chief-editor-admin.php:501
+msgid "No custom posts of type "
+msgstr "Nema uobičajenih postova tog tipa"
+
+#: admin/chief-editor-admin.php:492 admin/chief-editor-admin.php:502
+msgid "or"
+msgstr "ili"
+
+#: admin/chief-editor-admin.php:493 admin/chief-editor-admin.php:503
+msgid "all of them are published"
+msgstr "su svi oni objavljeni"
+
+#: admin/chief-editor-admin.php:519
+msgid "All comments accross the network since "
+msgstr "Svi komentari širom mreže od"
+
+#: admin/chief-editor-admin.php:527
+msgid "Most commented posts ever"
+msgstr "Najviše komentarisani postovi ikada"
+
+#: admin/chief-editor-admin.php:536
+msgid "Most commented posts last month"
+msgstr "Najviše komentarisani postovi prošlog meseca"
+
+#: admin/chief-editor-admin.php:555
+msgid " item(s)"
+msgstr "predmet(i)"
+
+#: admin/chief-editor-admin.php:672
+msgid "Total number of posts accross network: "
+msgstr "Ukupan broj postova širom mreže:"
+
+#: admin/chief-editor-admin.php:762
+msgid "Chief Editor Settings"
+msgstr "Podešavanja za Glavnog Editor-a"
+
+#: admin/chief-editor-admin.php:874 admin/chief-editor-admin.php:1040
+msgid "Sender email address"
+msgstr "Email adresa pošiljaoca"
+
+#: admin/chief-editor-admin.php:875
+msgid "Email address used for sendings"
+msgstr "Email adresa koja se koristi za slanja"
+
+#: admin/chief-editor-admin.php:882 admin/chief-editor-admin.php:1048
+msgid "Sender name"
+msgstr "Ime pošiljaoca"
+
+#: admin/chief-editor-admin.php:883
+msgid "Name, as it will be seen by recipients"
+msgstr "Ime, onakvo kakvo će videti primaoci"
+
+#: admin/chief-editor-admin.php:890
+msgid "Recipients emails"
+msgstr "Email-ovi primalaca"
+
+#: admin/chief-editor-admin.php:891
+msgid "Addresses to which all email will be sent to"
+msgstr "Adrese na koje će email biti poslat"
+
+#: admin/chief-editor-admin.php:903 admin/chief-editor-admin.php:1066
+msgid "Email content"
+msgstr "Sadržaj email-a"
+
+#: admin/chief-editor-admin.php:904
+msgid ""
+"This is the standard email sent for to authors in order to validate the post"
+msgstr "Ovo je standardni email poslat autorima kako bi oni potvrdili post"
+
+#: admin/chief-editor-admin.php:906
+msgid "You can use the following tags inside:"
+msgstr "U tome možete koristiti sledeće tag-ove:"
+
+#: admin/chief-editor-admin.php:941
+msgid "Show posts of type "
+msgstr "Prikazati postove tog tipa"
+
+#: admin/chief-editor-admin.php:942
+msgid "give you ability to manage posts of this type in a specific tab"
+msgstr ""
+"Daje vam mogućnost da uređujete postove ovog tipa u posebnom indikatoru"
+
+#: admin/chief-editor-admin.php:987
+msgid "Set chief editor(s) for this blog"
+msgstr "Podesite Glavnog Editor-a(e) za ovaj blog"
+
+#: admin/chief-editor-admin.php:1032
+msgid "Automatic Email to authors"
+msgstr "Automatski email autorima"
+
+#: admin/chief-editor-admin.php:1057
+msgid "Email recipients addresses"
+msgstr "Adrese primalaca email-a"
+
+#: admin/chief-editor-admin.php:1077
+msgid "Custom post types"
+msgstr "Tipovi uobičajenih postova"
+
+#: admin/chief-editor-admin.php:1121
+msgid "Set users as Chief Editors"
+msgstr "Podesite korisnike kao Glavne Editor-e"
+
+#: admin/chief-editor-admin.php:1233
+msgid ""
+"The following settings are used to send pre-formatted email to post authors, "
+"in order for them to validate it online before publishing"
+msgstr ""
+"Podešavanja koja slede se koriste za slanje prethodno formatiranog email-a "
+"autorima posta, kako bi ga oni potvrdili online pre objavljivanja"
+
+#: admin/chief-editor-admin.php:1238
+msgid ""
+"This section allow you to select which custom post types are going to "
+"presented in a separate tab for scheduling"
+msgstr ""
+"Ovaj odeljak vam dozvoljava da selektujete koji tipovi uobičajenih postova "
+"će biti prezentovani u zasebnom indikatoru za raspoređivanje"
+
+#: admin/chief-editor-admin.php:1243
+msgid "Attribute Chief editors to each blog in order for them to receive"
+msgstr "Dodelite Glavne Editor-e svakom blog-u kako bi oni primali"
+
+#: admin/chief-editor-admin.php:1243
+msgid "all"
+msgstr "sva"
+
+#: admin/chief-editor-admin.php:1243
+msgid "ready for printing"
+msgstr "spremna za štampanje"
+
+#: admin/chief-editor-admin.php:1243
+msgid "notifications"
+msgstr "obaveštenja"
+
+#: admin/chief-editor-admin.php:1421
+msgid "Blog"
+msgstr "Blog"
+
+#: admin/chief-editor-admin.php:1519
+msgid "published on "
+msgstr "objavljen na"
+
+#: admin/chief-editor-admin.php:1629 admin/chief-editor-admin.php:1714
+msgid "Trace graph for sorted column"
+msgstr "Trakirajte grafikon za odabranu kolonu "
+
+#: admin/chief-editor-admin.php:1634
+msgid "Name"
+msgstr "Ime"
+
+#: admin/chief-editor-admin.php:1634
+msgid "login"
+msgstr "Login (logovanje)"
+
+#: admin/chief-editor-admin.php:1634
+msgid "Month blogging"
+msgstr "Mesečno blog-ovanje"
+
+#: admin/chief-editor-admin.php:1635
+msgid "Posts/month"
+msgstr "Postovi/mesečno"
+
+#: admin/chief-editor-admin.php:1636
+msgid "Words/post"
+msgstr "Reči/post"
+
+#: admin/chief-editor-admin.php:1637
+msgid "Comments/post"
+msgstr "Komentari/post"
+
+#: admin/chief-editor-admin.php:1637
+msgid "Words/comment"
+msgstr "Reči/komentari"
+
+#: admin/chief-editor-admin.php:1637
+msgid "Comments/month"
+msgstr "Komentari/mesečno"
+
+#: admin/chief-editor-admin.php:2020
+msgid "Blog Title"
+msgstr "Naslov blog-a"
+
+#: admin/chief-editor-admin.php:2020
+msgid "Featured image"
+msgstr "Istaknuta slika"
+
+#: admin/chief-editor-admin.php:2021
+msgid "Submission date"
+msgstr "Datum podnošenja"
+
+#: admin/chief-editor-admin.php:2021
+msgid "Status"
+msgstr "Status"
+
+#: admin/chief-editor-admin.php:2023
+msgid "Author (login)"
+msgstr "Autor (login)"
+
+#: admin/chief-editor-admin.php:2024
+msgid "Scheduled for date"
+msgstr "Raspoređen za datum"
+
+#: admin/chief-editor-admin.php:2105
+msgid "Edit"
+msgstr "Edit-ovanje (izmena)"
+
+#: admin/chief-editor-admin.php:2116
+msgid "Send RFP to author"
+msgstr "Pošaljite RFP autoru"
+
+#: admin/chief-editor-admin.php:2129
+msgid "not scheduled"
+msgstr "nije raspoređeno"
+
+#: admin/chief-editor-admin.php:2154
+msgid "Scheduled posts : "
+msgstr "Raspoređeni postovi:"
+
+#: admin/chief-editor-admin.php:2155
+msgid "Pending posts : "
+msgstr "Postovi na čekanju:"
+
+#: admin/chief-editor-admin.php:2156
+msgid "Draft posts : "
+msgstr "Postovi - nacrti:"
+
+#: admin/chief-editor-admin.php:2157
+msgid "Total unpublished posts : "
+msgstr "Ukupan broj neobjavljenih postova:"
+
+#. Plugin Name of the plugin/theme
+msgid "Chief Editor"
+msgstr "Chief Editor"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.termel.fr"
+msgstr "http://www.termel.fr"
+
+#. Description of the plugin/theme
+msgid ""
+"Manage all posts, comments and authors accross the network. The Chief Editor "
+"toolbox."
+msgstr ""
+"Uredite sve postove, komentare i autore širom mreže. “Kutija za alat” za "
+"Glavnog Editor-a."
+
+#. Author of the plugin/theme
+msgid "Max UNGER"
+msgstr "Max UNGER"
+
+#. Author URI of the plugin/theme
+msgid "http://www.maxizone.fr"
+msgstr "http://www.maxizone.fr"

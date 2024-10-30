@@ -1,0 +1,46 @@
+.chiefed_setting_fieldset {
+	border: 1px solid darkgrey;
+	padding: 1em;
+	margin: 1em 0;
+}
+
+.chiefed_setting_fieldset>legend {
+	font-size: 1.3em;
+	font-weight: 700;
+}
+
+.chiefed_possible_keywords {
+	padding: 2px 5px;
+	margin: 2px 5px;
+	background-color: #5C5C5C;
+	color: #CCCCCC;
+	border-radius: 4px;
+}
+
+.chiefed_missing_setting {
+	color: red;
+}
+
+.chiefed_keyword {
+	padding: 2px 5px;
+	margin: 2px 5px;
+	background-color: #5C5C5C;
+	color: #CCCCCC;
+	border-radius: 4px;
+}
+
+.chiefed_category_title {
+	padding: 2px 5px;
+	/*margin: 2px 5px;*/
+	background-color: #e2e2e2;
+	/*color: #CCCCCC;*/
+	border-radius: 4px;
+	font-size:20px;
+}
+.chiefed_chiefed_nicename {
+	padding: 2px;
+	margin: 2px 5px;	
+	background-color: #3b3b3b;
+	color:#ffffff;
+	border-radius: 4px;
+}

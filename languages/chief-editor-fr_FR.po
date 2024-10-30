@@ -1,0 +1,329 @@
+# Copyright (C) 2015 Chief Editor
+# This file is distributed under the same license as the Chief Editor package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Chief Editor 3.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/chief-editor\n"
+"POT-Creation-Date: 2018-06-04 12:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-06-04 12:34+0000\n"
+"Last-Translator: pOipOI <admin@idweblogs.com>\n"
+"Language-Team: Français\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;"
+
+#: chiefed_front_datatable.php:287 chiefed_utils.php:646
+msgid "Send In-Press to author"
+msgstr "Envoyer BAT à l'auteur"
+
+#: chiefed_front_datatable.php:314 chiefed_utils.php:663
+#: admin/editor_table.php:112
+msgid "not scheduled"
+msgstr "non planifié"
+
+#: chiefed_front_datatable.php:423
+msgid "Timeframe:"
+msgstr "Période:"
+
+#: chiefed_utils.php:493
+msgid "Blog Title"
+msgstr "Titre du blog"
+
+#: chiefed_utils.php:493 admin/editor_table.php:139
+msgid "Featured image"
+msgstr "Image de une"
+
+#: chiefed_utils.php:494
+msgid "Submission date"
+msgstr "Date de création"
+
+#: chiefed_utils.php:494 admin/editor_table.php:131 admin/editor_table.php:145
+msgid "Status"
+msgstr "Status"
+
+#: chiefed_utils.php:496
+msgid "Author (login)"
+msgstr "Auteur (login)"
+
+#: chiefed_utils.php:497
+msgid "Scheduled for date"
+msgstr "Planifié pour le"
+
+#: chiefed_utils.php:682
+msgid "Scheduled posts : "
+msgstr "Posts planifiés :"
+
+#: chiefed_utils.php:683
+msgid "Pending posts : "
+msgstr "Post en BAT :"
+
+#: chiefed_utils.php:684
+msgid "Draft posts : "
+msgstr "Brouillons :"
+
+#: chiefed_utils.php:685
+msgid "Total unpublished posts : "
+msgstr "Nombre de total de posts non publiés :"
+
+#: admin/admin_settings.php:113
+msgid "System requirements"
+msgstr "Prérequis système"
+
+#: admin/admin_settings.php:135
+msgid "Python packages required"
+msgstr "Paquets Python requis"
+
+#: admin/admin_settings.php:140
+msgid "Linux packages required"
+msgstr "Paquets Linux requis"
+
+#: admin/admin_settings.php:187 admin/admin_settings.php:258
+#: admin/admin_settings.php:312
+msgid "Settings saved."
+msgstr "Sauvegardé"
+
+#: admin/admin_settings.php:197
+msgid "Default post type shown in calendar - WPFullCalendar must be installed"
+msgstr ""
+"Type de post par défaut dans le calendrier (le plugin WPFullCalendar doit "
+"être installé)"
+
+#: admin/admin_settings.php:217
+msgid "Time filters"
+msgstr "Filtres temporels"
+
+#: admin/admin_settings.php:219
+msgid "Time filters available to filter display"
+msgstr "Filtres temporels disponibles pour l'affichage"
+
+#: admin/admin_settings.php:221
+msgid ""
+"enter all needed time filters (one by line) using : <b>php_time | Label | "
+"default</b>.<br/> For example : -10 days | < 10 Days | 1"
+msgstr ""
+"entrer tous les filtres temporels nécessaires au rédacteur en chef. Un par "
+"ligne, en utilisant le format suivant: <b>php_time | label_menu | "
+"activé_par_defaut</b>.<br/> Par exemple : <em>-1 month | < 1 mois | 1<em>"
+
+#: admin/admin_settings.php:238 admin/admin_settings.php:292
+#: admin/admin_settings.php:500
+msgid "Save options"
+msgstr "Sauvegarder"
+
+#: admin/admin_settings.php:269 admin/admin_settings.php:341
+msgid "Statuses, Categories and Filters"
+msgstr "Status, catégories et filtres"
+
+#: admin/admin_settings.php:272
+msgid "Statuses and colors for WEB workflow"
+msgstr "Status et couleurs pour le workflow WEB"
+
+#: admin/admin_settings.php:274 admin/admin_settings.php:345
+msgid ""
+"enter all needed statuses (one by line) using : <b>status_name | "
+"status_label | status_color</b>.<br/> For example : status1 | My Status | "
+"#cecece"
+msgstr ""
+"entrer tous les status nécessaires au processus rédactionnel. Un par ligne, "
+"en utilisant le format suivant: <b>nom_status | label_status | "
+"couleur_status</b>.<br/> Par exemple : status1 | Mon Status | #cecece"
+
+#: admin/admin_settings.php:277
+msgid "this should be WP post statuses"
+msgstr "ceci devrait être des status WordPress existants"
+
+#: admin/admin_settings.php:343
+msgid "Statuses and colors for PRINT workflow"
+msgstr "Status et couleurs pour le workflow PRINT"
+
+#: admin/admin_settings.php:348
+msgid "you can define your own statuses (will appear in Status post meta box)"
+msgstr ""
+"vous pouvez définir vos propres status (ils apparaitront dans la meta-box "
+"status)"
+
+#: admin/admin_settings.php:373
+msgid "Categories and colors"
+msgstr "Catégories et couleurs"
+
+#: admin/admin_settings.php:375
+msgid ""
+"enter all needed categories (one by line) using : <b>category_slug | "
+"category_label | category_color</b>.<br/> For example : cat1 | My Cat | "
+"#cecece"
+msgstr ""
+"entrer toutes les catégories nécessaires (une par ligne) en utilisant : <b>"
+"category_slug | category_label | category_color</b>.<br/> Par exemple : cat1 "
+"| Ma Catégorie | #cecece"
+
+#: admin/admin_settings.php:387
+msgid "InDesign Connector"
+msgstr "Connecteur InDesign"
+
+#: admin/admin_settings.php:392
+msgid "Enable InDesign XML exports on save post?"
+msgstr ""
+"Activer les exports XML pour InDesign, lors des publications (et mise à jour)"
+" des articles"
+
+#: admin/admin_settings.php:416
+msgid "Managers notifications"
+msgstr "Notifications managers du service PAO"
+
+#: admin/admin_settings.php:421
+msgid "Enable email notifications for managers ?"
+msgstr "Activer les notifications"
+
+#: admin/admin_settings.php:470
+msgid "Email template for managers"
+msgstr "Patron d'email pour les notifications"
+
+#: admin/admin_settings.php:472
+msgid ""
+"This email will be sent to appropriate manager when a post of specified type "
+"is published (or updated)"
+msgstr ""
+"Cet email sera envoyé au manager approprié quand un article PRINT est publié "
+"ou mis à jour"
+
+#: admin/admin_settings.php:576
+msgid "No"
+msgstr "Non"
+
+#: admin/admin_settings.php:576
+msgid "Yes"
+msgstr "Oui"
+
+#: admin/meta_boxes.php:220
+msgid "Extra PRINT Editorial Informations"
+msgstr "Informations éditoriales complémentaires pour le PRINT"
+
+#: admin/meta_boxes.php:433
+msgid "not set yet"
+msgstr "pas encore attribué"
+
+#: admin/meta_boxes.php:608
+msgid "The file type you've uploaded is not supported : "
+msgstr "Le type de fichier uploadé n'est pas supporté :"
+
+#: admin/meta_boxes.php:614 admin/meta_boxes.php:618
+msgid "Cannot upload file because"
+msgstr "Impossible de télécharger le fichier parceque"
+
+#: admin/pre_desktop_publishing.php:176 admin/editor_table.php:124
+msgid "Shot"
+msgstr "Numéro"
+
+#: admin/pre_desktop_publishing.php:177
+msgid "Shots"
+msgstr "Numéros"
+
+#: admin/pre_desktop_publishing.php:198
+msgid "Represents a paper shot, and contains several printed articles"
+msgstr ""
+"Représente un exemplaire du journal papier (un daté), et contient un "
+"ensemble d'articles PRINT"
+
+#: admin/pre_desktop_publishing.php:234 admin/editor_table.php:123
+msgid "Periodical"
+msgstr "Périodique"
+
+#: admin/pre_desktop_publishing.php:235
+msgid "Periodicals"
+msgstr "Périodiques"
+
+#: admin/pre_desktop_publishing.php:431 admin/pre_desktop_publishing.php:432
+msgid "PRINT Posts"
+msgstr "Articles PRINT"
+
+#: admin/pre_desktop_publishing.php:435
+msgid "Pre DPs"
+msgstr "Articles PRINT"
+
+#: admin/pre_desktop_publishing.php:436
+msgid "Pre DP"
+msgstr "Article PRINT"
+
+#: admin/pre_desktop_publishing.php:437
+msgid "Add New"
+msgstr "Ajouter nouveau"
+
+#: admin/pre_desktop_publishing.php:454
+msgid ""
+"Just gather all author documents before generating necessary files for "
+"Desktop Publishing Unit"
+msgstr ""
+"Rassemble tous les documents fournis par les auteurs avant de générer "
+"automatiquement les fichiers pour la PAO"
+
+#: admin/pre_desktop_publishing.php:854
+msgid "To be build"
+msgstr "A monter"
+
+#: admin/pre_desktop_publishing.php:861
+msgid "Please fill in sender name and email in network settings"
+msgstr ""
+"Merci de remplir le nom de l'envoyeur et son email dans les paramètres réseau"
+
+#: admin/pre_desktop_publishing.php:898
+msgid "Email sent successfully"
+msgstr "Email correctement envoyé"
+
+#: admin/pre_desktop_publishing.php:899
+msgid "to"
+msgstr "à"
+
+#: admin/pre_desktop_publishing.php:899
+msgid "Problem sending email..."
+msgstr "Problème à l'envoi de l'email..."
+
+#: admin/pre_desktop_publishing.php:1134
+msgid "Number of pages: "
+msgstr "Nombre de pages:"
+
+#: admin/pre_desktop_publishing.php:1135
+msgid "Inside shot: "
+msgstr "Dans le numéro:"
+
+#: admin/editor_table.php:86
+msgid "Send BAT to author"
+msgstr "Envoyer BAT à l'auteur"
+
+#: admin/editor_table.php:126 admin/editor_table.php:140
+msgid "Post"
+msgstr "Article"
+
+#: admin/editor_table.php:132 admin/editor_table.php:146
+msgid "Author"
+msgstr "Auteur"
+
+#: admin/editor_table.php:133 admin/editor_table.php:147
+msgid "Schedule"
+msgstr "Planifié"
+
+#. Plugin Name of the plugin/theme
+msgid "Chief Editor"
+msgstr "Chief Editor"
+
+#. Description of the plugin/theme
+msgid ""
+"Manage all posts, comments and authors accross the network. The Chief Editor "
+"toolbox."
+msgstr ""
+"Gérer tous les posts, commentaires et auteurs à travers tout le réseau de "
+"blog en multisite. La boite à outils du rédac' chef!"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.termel.fr"
+msgstr ""
+
+#. Author of the plugin
+msgid "Termel"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.maxizone.fr"
+msgstr ""

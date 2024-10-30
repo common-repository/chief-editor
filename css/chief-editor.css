@@ -1,0 +1,146 @@
+/* WP_List_Table customizations */
+/*
+// #the-list > tr:nth-child(1) > td:nth-child(4)
+// html body.page-template-default.page.page-id-54.logged-in.admin-bar.no-sidebar.nav-below-header.fluid-header.separate-containers.active-footer-widgets-3.nav-aligned-left.header-aligned-left.dropdown-hover.customize-support div#page.hfeed.site.grid-container.container.grid-parent div#content.site-content div#primary.content-area.grid-parent.mobile-grid-100.grid-100.tablet-grid-100 main#main.site-main article#post-54.post-54.page.type-page.status-publish div.inside-article div.entry-content form div.chiefed_frontend_postlist_container table.wp-list-table.widefat.fixed.striped tbody#the-list tr td.status.column-status
+*/
+div.chiefed_frontend_postlist_container>table>tbody>tr>td>button.toggle-row,
+	#the-list>tr>td>button, #the-list>tr>td>div>button {
+	display: none !important;
+}
+
+.chiefed_frontend_postlist_container input[type="button"] {
+	display: none !important;
+}
+
+.chiefed_frontend_postlist_container>table.wp-list-table>tbody>tr>td {
+	padding: 2px !important;
+}
+
+.chiefed_listtable_status {
+	border-radius: 4px;
+	font-weight: 500;
+	color: white;
+	font-size: 1.2em;
+	text-align: center;
+	padding: 2px;
+}
+
+.chiefed_listtable_category {
+	color: white;
+	padding: 2em 0;
+	text-align: center;
+}
+
+.chiefed_singleshot_header_container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin-bottom: 1em;
+	background: whitesmoke;
+}
+
+.chiefed_singleshot_header_item {
+	padding: 0.2em;
+	margin: 0.2em 0;
+	background-color: #cecece;
+	border: 2px groove #a1a1a1;
+}
+/* html body.page-template-default.page.page-id-54.no-sidebar.nav-below-header.fluid-header.separate-containers.active-footer-widgets-3.nav-aligned-left.header-aligned-left.dropdown-hover div#page.hfeed.site.grid-container.container.grid-parent div#content.site-content div#primary.content-area.grid-parent.mobile-grid-100.grid-100.tablet-grid-100 main#main.site-main article#post-54.post-54.page.type-page.status-publish div.inside-article div.entry-content div.chiefed_frontend_postlist_container table.wp-list-table.widefat.fixed.striped tbody#the-list tr td.post.column-post div button.toggle-row 
+
+#the-list > tr:nth-child(1) > td:nth-child(1) > button:nth-child(1)
+#the-list > tr:nth-child(1) > td:nth-child(1) > button:nth-child(1)
+#the-list > tr:nth-child(1) > td:nth-child(1) > button:nth-child(1) > span:nth-child(1)
+*/
+.chiefed_bat {
+	color: red;
+}
+
+#the-list>tr>td>button.toggle-row {
+	display: none !important;
+}
+
+.chiefed_highlight {
+	padding: 2px !important;
+	border-radius: 4px !important;
+	color: white !important;
+	background-color: #801010 !important;
+}
+
+.chiefed_scale_container {
+	width: 100%;
+	/*font-size:0.7em;*/
+	border: 1px dashed darkgray;
+	border-radius: 4px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin: 5px 0;
+	color: white;
+}
+
+.chiefed_scale_item {
+	padding: 4px;
+	border-radius: 4px;
+}
+
+.chief-editor-bat-submit {
+	width: 100%;
+	padding: 5px !important;
+	white-space: normal;
+	word-wrap: normal
+}
+
+/* other customizations */
+.toplevel_page_chief-editor-dashboard .column-idx {
+	width: 3%;
+}
+
+.toplevel_page_chief-editor-dashboard .column-blog,
+	.toplevel_page_chief-editor-dashboard .column-featured,
+	.toplevel_page_chief-editor-dashboard .column-schedule {
+	width: 8%;
+}
+
+.toplevel_page_chief-editor-dashboard .column-author {
+	width: 15%;
+}
+
+.toplevel_page_chief-editor-dashboard .column-post {
+	width: 30%;
+}
+
+.ce_dialog_email {
+	background-color: #cecece;
+	border: 2px solid #33CCFF;
+}
+
+a.ce_post_thumbnail>img {
+	width: 50px;
+	height: auto;
+	/*padding:2px;*/
+	border: 1px solid black;
+	transition: all .2s ease-in-out;
+}
+
+a.ce_post_thumbnail>img:hover {
+	width: 200px;
+	height: auto;
+	padding: 0px;
+	border: 10px solid black;
+	z-index: 10000;
+}
+
+.empty-cell {
+	background-color: #E0E0E0;
+}
+
+.ce_calendar_post_cell {
+	font-size: 6px;
+}
+
+.ce_calendar_post_title {
+	width: 100px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}

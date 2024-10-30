@@ -1,0 +1,20 @@
+.chiefed_shot_progress_bar {
+	height: 30px;
+	/*width: 80%;
+	margin: 0 auto;*/
+	margin: 1em 2em;
+	display: flex;
+	flex-grow: 3;
+	border-radius: 4px;
+	overflow: hidden;
+}
+
+.chiefed_shot_progress_bar section {
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	color: white;
+}
+.chiefed_shot_progress_bar section:last-of-type {
+	flex: auto;
+}
